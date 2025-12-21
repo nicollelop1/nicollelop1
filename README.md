@@ -77,10 +77,8 @@ complementando con herramientas frontend y de control de versiones para proyecto
 <br>
 
 
-### 🔹 Data & Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="18"/> JSON  
-<br>
-🇺🇸 Inglés técnico (lectura y comprensión de documentación)  
+### 🔹 Data
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="18"/> JSON 
 
 </td>
 </tr>
