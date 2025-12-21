@@ -65,13 +65,17 @@ complementando con herramientas frontend y de control de versiones para proyecto
 
 <td width="50%" valign="top">
 
-### 🔹 Frontend
+### 🔹 Frontend  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="18"/> HTML5  
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="18"/> CSS  
+<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="18"/> JavaScript  
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18"/> React  
 
 <br>
+
 
 ### 🔹 Data & Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="18"/> JSON  
