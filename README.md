@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -22,19 +22,22 @@
 
 <p align="center">
 Soy estudiante de Ingeniería de Sistemas con enfoque principal en el desarrollo backend.<br>
-Trabajo principalmente con Java y Spring Boot, y cuento con conocimientos en desarrollo frontend.<br>
-Estoy interesada en participar en proyectos de software donde pueda aplicar mis conocimientos y seguir fortaleciendo mis habilidades técnicas.
+Trabajo principalmente con Java y Spring Boot, y tengo conocimientos en desarrollo frontend.<br>
+Utilizo diferentes herramientas de desarrollo y control de versiones para organizar y mejorar mi flujo de trabajo.
 </p>
 
 ---
 
-## 🧠 Skills
+## 🛠️ Herramientas y Tecnologías que utilizo
+
+Trabajo con tecnologías orientadas al desarrollo de software, principalmente en backend,  
+complementando con herramientas frontend y de control de versiones para proyectos académicos y personales.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔹 Backend  
+### 🔹 Backend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="18"/> Java  
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="18"/> Spring Boot  
@@ -47,7 +50,7 @@ Estoy interesada en participar en proyectos de software donde pueda aplicar mis 
 
 <br>
 
-### 🔹 Tools & Workflow  
+### 🔹 Tools & Workflow
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="18"/> Git  
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="18"/> GitHub  
@@ -62,10 +65,10 @@ Estoy interesada en participar en proyectos de software donde pueda aplicar mis 
 
 <td width="50%" valign="top">
 
-### 🔹 Frontend  
+### 🔹 Frontend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="18"/> HTML5  
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="18"/> CSS3  
+CSS  
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="18"/> JavaScript  
 <br>
@@ -73,7 +76,7 @@ Estoy interesada en participar en proyectos de software donde pueda aplicar mis 
 
 <br>
 
-### 🔹 Data & Languages  
+### 🔹 Data & Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="18"/> JSON  
 <br>
 🇺🇸 Inglés técnico (lectura y comprensión de documentación)  
@@ -99,7 +102,7 @@ Continuar desarrollando mis habilidades en backend y frontend, participar en pro
 
 <p>
 💻 <strong>GitHub:</strong>
-<a href="https://github.com/tu-usuario" target="_blank">Nicolle Andrea López Rivera</a>
+<a href="https://github.com/nicollelop1" target="_blank">Nicolle Andrea López Rivera</a>
 </p>
 
 <p>
