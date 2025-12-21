@@ -1,72 +1,74 @@
 <h1 align="center">Nicolle Andrea López Rivera</h1>
 
 <p align="center">
-💻 Systems Engineering | Software Development | Backend & Frontend
+💻 Systems Engineering Student | Backend & Frontend Developer
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+<h2 align="center">👩‍💻 About Me</h2>
 
-Soy estudiante de Ingeniería de Sistemas con enfoque principal en el desarrollo backend.  
-Trabajo principalmente con Java y tecnologías orientadas al desarrollo de software, y cuento con conocimientos en frontend.  
-Estoy abierta a participar en proyectos de desarrollo donde pueda aplicar y seguir fortaleciendo mis habilidades técnicas.
+<p align="center">
+Soy estudiante de Ingeniería de Sistemas con enfoque en desarrollo backend.<br>
+Trabajo principalmente con Java y Spring Boot, con conocimientos en frontend.<br>
+Me interesa participar en proyectos donde pueda seguir creciendo y adquirir experiencia práctica.
+</p>
 
 ---
 
 ## 🧠 Skills
 
 ### 🔹 Backend
-• Java  
-• Programación Orientada a Objetos  
-• Spring Boot  
-• Creación y consumo de APIs  
-• Manejo de datos con MySQL  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
+</p>
 
 ### 🔹 Frontend
-• HTML5  
-• CSS3  
-• JavaScript  
-• React  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
+</p>
+
+### 🔹 Tools & Workflow
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="35"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35"/>
+</p>
 
 ### 🔹 Data & Formats
-• JSON  
-
-### 🔹 Tools
-• IntelliJ IDEA  
-• NetBeans  
-• Visual Studio Code  
-• Git  
-• GitHub  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="35"/>
+</p>
 
 ### 🔹 Languages
-• Inglés técnico (lectura y comprensión de documentación)
-
----
-
-## ⚙️ Tech Stack
-
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  🇺🇸 Inglés técnico (lectura de documentación)
 </p>
 
 ---
@@ -79,6 +81,8 @@ Continuar desarrollando mis habilidades en backend y frontend, participar en pro
 
 ## 📫 Contact
 
-• Email: **nicollelopezrivera1@gmail.com** 
+- 📧 Email: **nicollelopezrivera1@gmail.com**  
+
+
 
 
