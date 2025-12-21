@@ -20,7 +20,7 @@
 
 <h2 align="center">👩‍💻 About Me</h2>
 
-<p align="center">
+<p>
 Soy estudiante de Ingeniería de Sistemas con enfoque en desarrollo backend.<br>
 Trabajo principalmente con Java y Spring Boot, con conocimientos en frontend.<br>
 Me interesa participar en proyectos donde pueda seguir creciendo y adquirir experiencia práctica.
