@@ -27,7 +27,6 @@ Utilizo diferentes herramientas de desarrollo y control de versiones para organi
 </p>
 
 ---
-
 ## 🛠️ Herramientas y Tecnologías que utilizo
 
 Trabajo con tecnologías orientadas al desarrollo de software, principalmente en backend,  
@@ -39,26 +38,17 @@ complementando con herramientas frontend y de control de versiones para proyecto
 
 ### 🔹 Backend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="18"/> Java  
-<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="18"/> Spring Boot  
-<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="18"/> MySQL  
-<br>
-• Programación Orientada a Objetos  
-<br>
-• Desarrollo y consumo de APIs REST  
 
-<br>
+• Programación Orientada a Objetos  
+• Desarrollo y consumo de APIs REST  
 
 ### 🔹 Tools & Workflow
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="18"/> Git  
-<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="18"/> GitHub  
-<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="18"/> IntelliJ IDEA  
-<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="18"/> NetBeans  
-<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="18"/> Visual Studio Code  
 
 </td>
@@ -67,24 +57,16 @@ complementando con herramientas frontend y de control de versiones para proyecto
 
 ### 🔹 Frontend  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="18"/> HTML5  
-<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="18"/> CSS  
-<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="18"/> JavaScript  
-<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18"/> React  
 
-<br>
-
-
 ### 🔹 Data
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="18"/> JSON 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="18"/> JSON  
 
 </td>
 </tr>
 </table>
-
----
 
 ## 🎯 Professional Goal
 
